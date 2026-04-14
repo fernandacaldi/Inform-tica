@@ -19,4 +19,5 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQg
 
 ## 09/04 Aula 5 - Aquisição e tratamento de dados abertos
 https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQAgd5Za1w88Qbl5w3Wlilg-AeprcAHVsz6AsM-ktV2PFPU?e=OkhuPn
-<img width="914" height="294" alt="image" src="https://github.com/user-attachments/assets/83049136-2370-452d-9d7e-3b231d15270b" />
+<img width="914" height="294" alt="image" src="https://github.com/user-attachments/assets/16aea073-9a0a-4977-a5ba-c0ca460fcabe" />
+
