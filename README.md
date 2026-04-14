@@ -16,9 +16,9 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAKz_ciBrNkSbTXYqF6NvjOAREZUTG-KNBqF_e9NFS
 <img width="1294" height="292" alt="image" src="https://github.com/user-attachments/assets/02014693-00f1-488c-af2d-fb6215e58f93" />
 
 ## 13/03 - Aula 4 - Organização de tabela e criação de gráficos referentes aos fornecedores da Prefeitura de São José dos Campos.
-https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQgfUR4?e=kHhKJc
+https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQBFF4sx2O_BR4YLNiWESeG6AdTAq7A8jlBrL66nuWQY8pw?e=exczcu
 
-<img width="875" height="287" alt="image" src="https://github.com/user-attachments/assets/db5f4740-b3ce-43ff-8adb-21a8662e9ea1" />
+<img width="993" height="296" alt="image" src="https://github.com/user-attachments/assets/37c6e5b2-b110-4bc4-aba5-8f38a15aada9" />
 
 ## 09/04 Aula 5 - Aquisição e tratamento de dados abertos.
 https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQAgd5Za1w88Qbl5w3Wlilg-AeprcAHVsz6AsM-ktV2PFPU?e=OkhuPn
