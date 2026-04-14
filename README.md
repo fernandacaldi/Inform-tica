@@ -15,6 +15,7 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAKz_ciBrNkSbTXYqF6NvjOAREZUTG-KNBqF_e9NFS
 
 ## 13/03 - Aula 4 - Organização de tabela e criação de gráficos referentes aos fornecedores da Prefeitura de São José dos Campos
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQgfUR4?e=kHhKJc
+
 <img width="875" height="287" alt="image" src="https://github.com/user-attachments/assets/db5f4740-b3ce-43ff-8adb-21a8662e9ea1" />
 
 ## 09/04 Aula 5 - Aquisição e tratamento de dados abertos
