@@ -6,9 +6,9 @@ Atividades realizadas na disciplina de informática do CST em Logística.
 https://www.canva.com/design/DAHBKZer2X4/YARC4_o1YAw-OuIML3J2uA/edit?utm_content=DAHBKZer2X4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 27/02 - Aula 2 - Planilhas eletrônicas: operadores, funções e fórmulas.
-https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQC3VNlGXYqgRrhq-AKhnOVmAaqV_ksRSyl00az-MRcRmcU?e=xDkCKJ
+https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQAN6DrTn9V0TbutBlgZ1-05AboVAOccXtyanPNCfnM00ug?e=EowbVd
 
-<img width="801" height="502" alt="image" src="https://github.com/user-attachments/assets/51695a70-ffdf-4595-bf47-d574cd5cd910" />
+<img width="503" height="386" alt="image" src="https://github.com/user-attachments/assets/f2c54e65-0c56-45b8-9861-7b130259aabb" />
 
 ## 12/03 - Aula 3 - Criação de gráficos referentes a despesas da prefeitura de São José dos Campos.
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAKz_ciBrNkSbTXYqF6NvjOAREZUTG-KNBqF_e9NFSU2BA?e=7dh73I
