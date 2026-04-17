@@ -25,3 +25,21 @@ https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQAgd5
 
 <img width="914" height="294" alt="image" src="https://github.com/user-attachments/assets/16aea073-9a0a-4977-a5ba-c0ca460fcabe" />
 
+## 10/04 a 15/04 - Aula 6 - Acessar dados abertos do Estado de São Paulo, baixar um conjunto de dados, elaborar e responder 5 perguntas.
+https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQDYqHby7FK1QYJASzti835dARuNW5qlQzoya4SVlxaQXpo?e=l3rM1g
+
+### Pergunta 1
+<img width="721" height="222" alt="image" src="https://github.com/user-attachments/assets/9d836b0e-4090-4bf2-8edf-d0846390c996" />
+
+### Pergunta 2
+<img width="1085" height="249" alt="image" src="https://github.com/user-attachments/assets/6e519d0e-fb07-4a47-a9a5-00b9b8e8d8a8" />
+
+### Pergunta 3
+<img width="755" height="105" alt="image" src="https://github.com/user-attachments/assets/1a864252-c74b-4b04-bee0-f5ee41ffef77" />
+
+### Pergunta 4
+<img width="521" height="129" alt="image" src="https://github.com/user-attachments/assets/4d6d7986-8d5c-463d-9fc7-fe3557df15b0" />
+
+### Pergunta 5
+<img width="921" height="220" alt="image" src="https://github.com/user-attachments/assets/7b7b3d1d-9651-4773-9f1e-2ea0eabe7b3f" />
+
