@@ -44,3 +44,6 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQDYqHby7FK1QYJASzti835dARuNW5qlQzoya4SVlxa
 <img width="921" height="220" alt="image" src="https://github.com/user-attachments/assets/7b7b3d1d-9651-4773-9f1e-2ea0eabe7b3f" />
 
 ## 16/04 - Certificado de curso Aprenda Mais: Criando Trabalhos Acadêmicos com Ferramentas Digitais
+
+## 23/04 - Tratamento de dados no Power BI
+
