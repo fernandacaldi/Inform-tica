@@ -47,6 +47,6 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQDYqHby7FK1QYJASzti835dARuNW5qlQzoya4SVlxa
 <img width="844" height="582" alt="image" src="https://github.com/user-attachments/assets/799043e9-3a4e-4f20-9622-fbd6ffe4c2de" />
 
 
-## 23/04 - Tratamento de dados no Power BI
+## 23/04 - Aula 7 - Tratamento de dados no Power BI
 <img width="901" height="475" alt="image" src="https://github.com/user-attachments/assets/3f4756fa-7a62-4e9a-83c7-88fecdc453f2" />
 
